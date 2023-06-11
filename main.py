@@ -5,7 +5,6 @@ def main():
     # print('Hello World')
     ##############################
 
-def main():
     print('Hello World')
     print('Python Programming')
 
